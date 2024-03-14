@@ -20,14 +20,13 @@ const Homepage = () => {
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
           <h1 className="text-4xl md:text-6xl font-bold">
-            Crafting Digital Experiences, Designing Tomorrow.
+            Great UI/UX design is not just about making things look pretty,
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-            Welcome to my digital canvas, where innovation and creativity
-            converge. With a keen eye for aesthetics and a mastery of code, my
-            portfolio showcases a diverse collection of projects that reflect my
-            commitment to excellence.
+            it&apos;s about creating seamless and intuitive processes that
+            enhance the user experience, and ultimately, drive continuous
+            improvement.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
