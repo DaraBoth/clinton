@@ -52,8 +52,8 @@ const AboutPage = () => {
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
               <svg
-                width="185"
-                height="77"
+                width="200"
+                height="94"
                 viewBox="0 0 2222 1376"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
@@ -233,7 +233,7 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Thort Rg SEX
+                    Senior JavaScript Developer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
