@@ -2,7 +2,7 @@ name: Daily Weather Notification
 
 on:
   schedule:
-    - cron: '30 7 * * *'  # In UTC this is 10:30 PM (22:30) UTC
+    - cron: '30 22 * * *'  # In UTC this is 10:30 PM (22:30) UTC
   workflow_dispatch:
 
 jobs:
